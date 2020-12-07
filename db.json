@@ -1,5 +1,5 @@
 {
-  "weekday":[
+  "week":[
     {
       "id": 1,
       "title": "Sunday"
@@ -39,4 +39,4 @@
       "name": "Low"
     }
   ]
-}
+} 
