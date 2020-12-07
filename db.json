@@ -1,4 +1,9 @@
-[
+{
+  "weekday": [
+    {
+      "id": 1,
+      "title": "Sunday"
+    },
     {
       "id": 2,
       "title": "Monday"
@@ -19,4 +24,19 @@
       "id": 6,
       "title": "Friday"
     },
-]
+    {
+      "id": 7,
+      "title": "Saturday"
+    }
+  ],
+   "priority": [
+    {
+      "id": 1,
+      "Name": "High"
+    },
+    {
+      "id": 2,
+      "name": "Low"
+    }
+  ]
+}
