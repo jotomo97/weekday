@@ -1,9 +1,5 @@
 [
     {
-      "id": 1,
-      "title": "Sunday"
-    },
-    {
       "id": 2,
       "title": "Monday"
     },
@@ -23,8 +19,4 @@
       "id": 6,
       "title": "Friday"
     },
-    {
-      "id": 7,
-      "title": "Saturday"
-    }
 ]
